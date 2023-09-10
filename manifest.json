@@ -1,0 +1,82 @@
+{
+ "format_version": 2,
+ "header": {
+  "description": "Modules+ Preset Loader §7V1.0 §fBy §3Chainsketch§r\nPatched by §bNSPG911§r",
+  "name": "§3Modules§a+ §3Preset Loader §7Patched",
+  "uuid": "f5faf505-1e7b-4d01-8953-5f3db4dcfd6f",
+  "version": [
+   2,
+   0,
+   0
+  ],
+  "min_engine_version": [
+   1,
+   16,
+   0
+  ]
+ },
+ "modules": [
+  {
+   "description": "V1",
+   "type": "resources",
+   "uuid": "4194b2d4-1b0f-4a45-8fa9-9e77efc75b86",
+   "version": [
+    1,
+    5,
+    0
+   ]
+  }
+ ],
+ "subpacks": [
+  {
+   "folder_name": "config10",
+   "name": "§3Streamer",
+   "memory_tier": 1
+  },
+  {
+   "folder_name": "config9",
+   "name": "§3PVP",
+   "memory_tier": 1
+  },
+  {
+   "folder_name": "config8",
+   "name": "§3Java",
+   "memory_tier": 1
+  },
+  {
+   "folder_name": "config7",
+   "name": "§3Console",
+   "memory_tier": 1
+  },
+  {
+   "folder_name": "config6",
+   "name": "§3Touch",
+   "memory_tier": 1
+  },
+  {
+   "folder_name": "config5",
+   "name": "§3Controller",
+   "memory_tier": 1
+  },
+  {
+   "folder_name": "config4",
+   "name": "§3Keyboard and Mouse",
+   "memory_tier": 1
+  },
+  {
+   "folder_name": "config3",
+   "name": "§3Config 3",
+   "memory_tier": 1
+  },
+  {
+   "folder_name": "config2",
+   "name": "§3Config 2",
+   "memory_tier": 1
+  },
+  {
+   "folder_name": "config1",
+   "name": "§3Config 1",
+   "memory_tier": 1
+  }
+ ]
+}
